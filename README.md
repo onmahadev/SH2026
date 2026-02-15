@@ -29,6 +29,8 @@ XXVI Tournament in memory of the RSFSR ZT B. A. Shestalyuk in weightlifting
 + Хакасия
 
 --Сургутский район
+
 --Куча (в файле)
+
 Старт ввода данных ЗАЯВОК на участие в Состязании! ПРОГРЕСС в %
 
