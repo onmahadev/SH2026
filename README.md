@@ -30,10 +30,10 @@ XXVI Tournament in memory of the RSFSR ZT B. A. Shestalyuk in weightlifting
 ✅ Сургутский район
 
  ❌ Куча (в файле)!!!
- ❌
- ❌
- ❌
- ❌
+ ❌ gg
+ ❌ gg
+ ❌ gg
+ ❌ gg
 
 
 Старт ввода данных ЗАЯВОК на участие в Состязании! ПРОГРЕСС в %
