@@ -39,10 +39,12 @@ XXVI Tournament in memory of the RSFSR ZT B. A. Shestalyuk in weightlifting
 
 
 
+
 Дата 17.02.2026:
 ![Ввод данных](https://progress-bar.xyz/100/?title=edit)
 
 ✅ ВЫПОЛНЕНО
+
 
 
 ±±± Старт ввода данных ЗАЯВОК на участие в Состязании! ПРОГРЕСС в %
