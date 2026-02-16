@@ -19,7 +19,7 @@ XXVI Tournament in memory of the RSFSR ZT B. A. Shestalyuk in weightlifting
 
 
 Дата 16.02.2026:
-![Ввод данных](https://progress-bar.xyz/54/?title=edit)
+![Ввод данных](https://progress-bar.xyz/57/?title=edit)
 + Ханты-Мансийск
 + Нягань
 + Нефтеюганск
@@ -27,10 +27,10 @@ XXVI Tournament in memory of the RSFSR ZT B. A. Shestalyuk in weightlifting
 + Кондинский (ХМАО-Югра)
 + ЮКИОР Х-М
 + Хакасия
++ Сургутский район
 
---Сургутский район
+ --- Куча (в файле)!!!
 
---Куча (в файле)
 
 Старт ввода данных ЗАЯВОК на участие в Состязании! ПРОГРЕСС в %
 
