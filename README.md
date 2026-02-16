@@ -42,10 +42,13 @@ XXVI Tournament in memory of the RSFSR ZT B. A. Shestalyuk in weightlifting
 
 ✅ Сургутский район
 
+♕
+♕♕
+♕♕♕
 
 
      
-±±±±±±±±±±±±±±±±
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 
 Дата 17.02.2026:
@@ -53,9 +56,11 @@ XXVI Tournament in memory of the RSFSR ZT B. A. Shestalyuk in weightlifting
 
 ✅ ВЫПОЛНЕНО 
 
- ±±±±±±±±±±±±±±±±
+ ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
  
-
+♕♕♕
+♕♕
+♕
  
 
 
